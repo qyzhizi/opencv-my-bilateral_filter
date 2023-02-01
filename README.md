@@ -5,7 +5,7 @@
 - Linux 桌面版 , cmake, c++编译环境
 - OpenCV c++库
 
-### 运行效果
+### 调用参数与效果
 
 ```c++
 	int ksize = 20;
