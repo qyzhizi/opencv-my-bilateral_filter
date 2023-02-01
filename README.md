@@ -1,5 +1,10 @@
 # opencv-my-bilateral_filter
 
+## 环境要求
+
+- Linux 桌面版 , cmake, c++编译环境
+- OpenCV c++库
+
 ### 运行效果
 
 ```c++
