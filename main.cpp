@@ -26,5 +26,8 @@ int main()
 	imshow("dst1-myBilateralFilter", dst1);
 	imshow("dst2-bilateralFilter", dst1);
 	waitKey();
+
+	// 保存图片
+	// @todo @99fukong 
 }
 
